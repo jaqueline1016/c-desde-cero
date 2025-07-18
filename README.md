@@ -13,7 +13,7 @@ Este repositorio documenta mi aprendizaje del lenguaje de programación **C**, i
 | 3      | Estructuras de control              | Condicionales `if`, bucles `for`, `while`     |
 | 4      | Funciones y organización del código | Definición, llamadas, paso de parámetros      |
 | 5      | Arreglos (vectores)                 | Arrays, strings, acceso por índice            |
-| 6+     | Apuntes extra / retos / proyectos   | Mini-proyectos, estructuras, punteros         |
+| 6    | Apuntes extra / retos / proyectos   | Mini-proyectos, estructuras, punteros         |
 
 ---
 
